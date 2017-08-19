@@ -1,5 +1,5 @@
 # hello-world
-Dr. Clarke Earley
+Dr. Clarke Earley  
 Kent State University at Stark
 
 I am an Associate Professor of Chemistry. My research interests are in developing open-source programs that can be used by both researchers and students to address relevant scientific issues.
